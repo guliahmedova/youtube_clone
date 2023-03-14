@@ -26,7 +26,7 @@ a {
 }
 
 .category-btn:hover {
-  background-color: #fc1503 !important;
+  background-color: #d10b67 !important;
   color: white !important;
 }
 
@@ -55,7 +55,6 @@ a {
   background: transparent;
   outline: none;
   border: none;
-
   padding: 7px 15px;
   margin: 10px 0px;
   border-radius: 20px;
